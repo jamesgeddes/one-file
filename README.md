@@ -1,2 +1,2 @@
 # one-file
-single file for tesing
+single file for tests.
